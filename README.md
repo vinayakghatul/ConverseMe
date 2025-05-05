@@ -1,2 +1,1 @@
-# ConverseMe
-AI-powered  conversation platform
+## AI Conversation platform
